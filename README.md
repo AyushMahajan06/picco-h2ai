@@ -1,5 +1,2 @@
-"# picco-h2ai" 
-"# picco-h2ai" 
-"# picco-h2ai" 
-"# picco-h2ai" 
-"# picco-h2ai" 
+This is the PICCO website for Team DBRC for geortown H2AI
+
